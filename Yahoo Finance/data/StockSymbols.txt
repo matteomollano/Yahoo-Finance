@@ -1,0 +1,20 @@
+MSFT:Microsoft Corporation
+GOOG:Alphabet Inc.
+GOOGL:Alphabet Inc.
+FB:Facebook, Inc.
+T:AT&T Inc.
+CSCO:Cisco Systems, Inc.
+TSM:Taiwan Semiconductor Manufacturing Company Limited
+VZ:Verizon Communications Inc.
+INTC:Intel Corporation
+CHL:China Mobile Limited
+ORCL:Oracle Corporation
+NVDA:NVIDIA Corporation
+SAP:SAP SE
+IBM:International Business Machines Corporation
+ADBE:Adobe Systems Incorporated
+CRM:salesforce.com, inc.
+ACN:Accenture plc
+QCOM:QUALCOMM Incorporated
+TXN:Texas Instruments Incorporated
+AVGO:Broadcom Inc.
